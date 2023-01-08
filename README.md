@@ -1,5 +1,5 @@
 # k8s-faas
-* This repo contains files used to deploy a function (docker image) using Openfaas to a kubernetes cluster on amazon eks created using eksctl.
+* This repo contains files used to deploy a function using Openfaas, to a kubernetes cluster on amazon eks created using eksctl.
 
 * Function is created with the use of a docker containers by Openfaas and runs as a pod in the cluster.
 
